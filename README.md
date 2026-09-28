@@ -2,6 +2,17 @@
 
 This repository only hosts the **Kirinuki** Windows installer and its signed update files. There is no source code here.
 
+<!-- kirinuki:download:start -->
+## Download
+
+Current version: **Kirinuki 0.5.0**
+
+- Installer: [Kirinuki_0.5.0_x64-setup.exe](https://github.com/aliali2722/kirinuki-releases/releases/download/v0.5.0/Kirinuki_0.5.0_x64-setup.exe)
+- SHA-256: `830ba8702363b2d10ddb5660c16dfa8311a7f961833b0e707dc7c58d1e04e374`
+
+Compare the SHA-256 with the one you were sent through a different app before running the installer.
+<!-- kirinuki:download:end -->
+
 ## Install
 1. Open the **latest release** and download `Kirinuki_<version>_x64-setup.exe`.
 2. Check the file's fingerprint against the one you were sent **through a different app** (for example a text message). In PowerShell:
