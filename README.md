@@ -5,10 +5,10 @@ This repository only hosts the **Kirinuki** Windows installer and its signed upd
 <!-- kirinuki:download:start -->
 ## Download
 
-Current version: **Kirinuki 0.5.0**
+Current version: **Kirinuki 0.6.0**
 
-- Installer: [Kirinuki_0.5.0_x64-setup.exe](https://github.com/aliali2722/kirinuki-releases/releases/download/v0.5.0/Kirinuki_0.5.0_x64-setup.exe)
-- SHA-256: `830ba8702363b2d10ddb5660c16dfa8311a7f961833b0e707dc7c58d1e04e374`
+- Installer: [Kirinuki_0.6.0_x64-setup.exe](https://github.com/aliali2722/kirinuki-releases/releases/download/v0.6.0/Kirinuki_0.6.0_x64-setup.exe)
+- SHA-256: `39d6befcdc3a84a7b59b81a4e9541f6b48473fa346d04620ae98a0a5a0b05cf9`
 
 Compare the SHA-256 with the one you were sent through a different app before running the installer.
 <!-- kirinuki:download:end -->
